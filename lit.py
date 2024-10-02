@@ -1,5 +1,4 @@
 import os
-import fuzzywuzzy
 import pandas as pd
 from fuzzywuzzy import fuzz
 import phonetics
