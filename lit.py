@@ -1,5 +1,4 @@
 import os
-import fuzzywuzzy
 import pandas as pd
 import fuzzywuzzy
 from fuzzywuzzy import fuzz
